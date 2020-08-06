@@ -1,5 +1,5 @@
 module.exports = {
-  aor: {
+  ra: {
        action: {
            delete: '削除',
            show: '見る',
