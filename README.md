@@ -1,17 +1,17 @@
-# Japanese Translations for Admin-on-rest
+# Japanese Translations for React Admin
 
-Japanese translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
+Japanese translations for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST services.
 
 ## Installation
 
 ```sh
-npm install --save aor-language-japanese
+npm install --save ra-language-japanese
 ```
 
 ## Usage
 
 ```js
-import japaneseMessages from 'aor-language-japanese';
+import japaneseMessages from 'ra-language-japanese';
 
 const messages = {
     'ja': japaneseMessages,
