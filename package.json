@@ -1,7 +1,7 @@
 {
-  "name": "aor-language-japanese",
+  "name": "ra-language-japanese",
   "version": "1.0.0",
-  "description": "japanese translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "description": "Japanese translations for react-admin, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "react",
-    "admin-on-rest",
+    "react-admin",
     "translation"
   ],
   "author": "Shingo Kumagai",
